@@ -1,6 +1,6 @@
 
 def main():
-    print('XD')
+    print('lolXDDDDDDdd')
 
 
 if __name__ == '__main__':
